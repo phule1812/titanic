@@ -11,4 +11,5 @@ In this project, 4 classification models were used to predict human survival in 
 - Tree Decision
 
 After training the models and using cross validation to calculate the errors of the models, boxplot to compare the errors when using the models:
+
 ![](boxplot.png)
